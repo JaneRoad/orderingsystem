@@ -1,9 +1,8 @@
 package com.janeroad.repository;
 
-/**
- * Created on 2020/4/11.
- *
- * @author LJN
- */
+
+import com.janeroad.entity.Admin;
+
 public interface AdminRepository {
+    public Admin login(String username, String password);
 }
