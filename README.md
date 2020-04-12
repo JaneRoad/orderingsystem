@@ -18,4 +18,7 @@ user 提供用户服务：添加用户、查询用户、删除用户。
 
 四个服务提供者和一个服务消费者都需要在注册中心进行注册，同时可以使用配置中心来对配置文件进行统一集中管理。
 
-![image](https://images.gitbook.cn/d1e61930-d7ae-11e9-a536-c512dee3d564)
+
+喜欢就点个star和fork吧，感谢大家
+个人博客：http:www.lujiannan.top
+开源中国：https://my.oschina.net/u/4248053
