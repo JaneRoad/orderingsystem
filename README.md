@@ -1,11 +1,13 @@
 # orderingsystem
 前言：最近学完了B站up主楠哥的 springcloud 实战教程，跟着敲了这个外卖点餐项目，项目虽小，但还是能从中学到很多东西。
-### 项目需求
+## 项目简介
 
 客户端：针对普通用户，用户登录、用户退出、菜品订购、我的订单。
 
 后台管理系统：针对管理员，管理员登录、管理员退出、添加菜品、查询菜品、修改菜品、删除菜品、订单处理、添加用户、查询用户、删除用户。
-![image](https://images.gitbook.cn/b065be50-d7ae-11e9-8797-4924c0d7c082)
+
+![image-20211127142927006](https://gitee.com/janeroad/iamge-cloud/raw/master/NoteImage/image-20211127142927006.png)
+
 account 提供账户服务：用户和管理的登录退出。
 
 menu 提供菜品服务：添加菜品、删除菜品、修改菜品、查询菜品。
@@ -18,7 +20,11 @@ user 提供用户服务：添加用户、查询用户、删除用户。
 
 四个服务提供者和一个服务消费者都需要在注册中心进行注册，同时可以使用配置中心来对配置文件进行统一集中管理。
 
+- ![image-20211127143204660](https://gitee.com/janeroad/iamge-cloud/raw/master/NoteImage/image-20211127143204660.png)
+
 
 喜欢就点个star和fork吧，感谢大家
-个人博客：http://www.lujiannan.top/
-开源中国：https://my.oschina.net/u/4248053
+CSDN：https://blog.csdn.net/ChrisLu777
+掘金：https://juejin.cn/user/4107431173961550
+知乎：JaneRoad
+公众号：0error
